@@ -1,0 +1,18 @@
+.squareWrapper {
+    width: 100px;
+    height: 100px;
+    border: 0.5px solid rgb(55, 221, 243);
+    background: #fff;
+    cursor: pointer;
+    outline: none;
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.squareWrapper:hover {
+    background: #bbfbf4;
+    transition: 0.2s all ease;
+}

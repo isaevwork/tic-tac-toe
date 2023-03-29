@@ -1,0 +1,8 @@
+.boardWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 310px;
+    height: 310px;
+    background: rgba(54, 218, 255, 0.551);
+    margin-bottom: 80px;
+}
